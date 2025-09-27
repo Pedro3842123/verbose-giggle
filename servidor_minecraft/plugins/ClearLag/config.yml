@@ -1,0 +1,128 @@
+# ================================================================= #
+#                        ClearLag                                   #
+#                 Created by: fernsehheft                           #
+#                                                                   #
+#                      VERSION: 1.6.3                               #
+# ================================================================= #
+
+# --- Discord Webhook Integration ---
+# Sends log messages to a Discord channel.
+discord:
+  webhook-enabled: false
+  webhook-url: ""
+# --- Auto-Clear Settings ---
+# Automatically clears dropped items and certain entities from the world.
+auto-clear:
+  enabled: true
+  interval-seconds: 300 # Time in seconds between each clear
+  clear-items: true
+  clear-entities: false # Set to true to clear all entities (excluding players, item frames, etc.)
+  # List of entity types to be excluded from the clear command.
+  excluded-entities:
+    - PIG
+    - SHEEP
+    - COW
+    - CHICKEN
+  # List of item types (Materials) to be excluded from the item clear.
+  excluded-items:
+    - DIAMOND_SWORD
+    - IRON_PICKAXE
+    - EMERALD
+  # Mob exclusion settings for Auto-Clear.
+  exclusions:
+    named: true # Excludes mobs with a custom name
+    bred: true # Excludes mobs that are adult and bred (no longer babies)
+    tagged: true # Excludes mobs with the scoreboard tag "clearlag_exclude"
+
+# --- Manual Kill Mobs Settings ---
+# Settings for the /clearlag killmobs command.
+kill-mobs:
+  exclusions:
+    named: true # Excludes named mobs from the manual kill command
+    bred: true # Excludes bred mobs from the manual kill command
+    tagged: true # Excludes tagged mobs from the manual kill command
+
+# --- Optimizations ---
+# This section contains various performance-related optimizations.
+optimizations:
+  # Limits how fast redstone signals can update to prevent lag machines.
+  redstone:
+    enabled: true
+
+  # Limits the number of armor stands and item frames per chunk and globally.
+  item-frame-armor-stand-limiter:
+    armor-stand:
+      enabled: false
+      chunk-limit: 10
+      global-limit: 100
+    item-frame:
+      enabled: false
+      chunk-limit: 10
+      global-limit: 100
+
+  # Limits the number of hostile and passive mobs per 4 chunks.
+  mob-spawn-limiter:
+    enabled: true
+    hostile-limit-per-4-chunks: 30
+    passive-limit-per-4-chunks: 20
+
+  # Reduces performance impact of hoppers by batching their operations.
+  hopper-optimization:
+    enabled: true
+
+  # Limits the growth of certain farm blocks (e.g., sugar cane, bamboo).
+  farm-limiter:
+    enabled: true
+
+  # Despawns mobs that are too far from any player to reduce AI processing load.
+  ai-optimization:
+    enabled: true
+    despawn-distance-blocks: 64.0
+    check-interval-seconds: 30
+    # Mob exclusion settings for AI Optimization.
+    exclusions:
+      named: true # Excludes mobs with a custom name
+      bred: true # Excludes mobs that are adult and bred
+      tagged: true # Excludes mobs with the scoreboard tag "clearlag_exclude"
+
+  # Sends a message to server staff when performance drops below a certain threshold.
+  performance-warnings:
+    enabled: true
+    # Not yet implemented in this version. Future update.
+
+  # Optimizes how chunks are loaded and unloaded.
+  chunk-unloading-optimization:
+    enabled: false
+    # Not yet implemented in this version. Future update.
+
+# --- Performance Metrics ---
+# These settings control the performance monitoring.
+performance:
+  enabled: true # Enables the background task for monitoring performance.
+
+# --- Messages and Sounds ---
+# Configure messages and sounds for the auto-clear countdown.
+messages:
+  broadcast-enabled: true
+sounds:
+  countdown-enabled: true
+clear-sounds-enabled: true
+
+# List of countdown values (in seconds) at which to broadcast a message and play a sound.
+countdown-messages-at:
+  - 600
+  - 300
+  - 180
+  - 120
+  - 60
+  - 30
+  - 15
+  - 10
+  - 5
+  - 4
+  - 3
+  - 2
+  - 1
+
+# Enable debug mode to see detailed logs in the console.
+debug-mode: false
