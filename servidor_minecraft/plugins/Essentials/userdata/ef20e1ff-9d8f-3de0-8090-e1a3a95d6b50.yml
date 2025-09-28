@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1759080078967
+  lastteleport: 1759080766467
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,11 +23,11 @@ last-account-name: BolinhaPrime
 lastlocation:
   world: e060e86e-a0eb-437a-bcf8-667b0678cc8a
   world-name: world
-  x: -81.69999998807907
-  y: 63.0
-  z: 125.19037306738696
-  yaw: -5.3695068359375
-  pitch: 11.290966987609863
+  x: -20.058782627843172
+  y: -3.0
+  z: 350.12770776876374
+  yaw: -94.6424789428711
+  pitch: 36.76239013671875
 homes:
   jj:
     world: e060e86e-a0eb-437a-bcf8-667b0678cc8a
