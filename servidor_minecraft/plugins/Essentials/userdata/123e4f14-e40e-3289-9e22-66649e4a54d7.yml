@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1759107443781
+  lastteleport: 1759188855809
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1759107495354
-  login: 1759107055847
+  login: 1759188355525
 money: '0'
 last-account-name: robeeert7384
 lastlocation:
   world: 53000ec9-8316-4e4a-8aba-879e977d4bca
   world-name: world
-  x: 11.345500219296992
-  y: 68.0
-  z: 15.200954975178579
-  yaw: 143.70028686523438
-  pitch: 18.899892807006836
+  x: 3.265612187473568
+  y: 65.0
+  z: 4.7648795949308225
+  yaw: -61.79996109008789
+  pitch: -4.350006103515625
 logoutlocation:
   world: 53000ec9-8316-4e4a-8aba-879e977d4bca
   world-name: world
@@ -36,3 +36,20 @@ logoutlocation:
   z: 7.012604995735197
   yaw: 128.10006713867188
   pitch: 30.300016403198242
+homes:
+  lago:
+    world: 53000ec9-8316-4e4a-8aba-879e977d4bca
+    world-name: world
+    x: -69.6086696114941
+    y: 64.0
+    z: -255.13837207964053
+    yaw: 96.0008544921875
+    pitch: 30.899967193603516
+  sakura:
+    world: 53000ec9-8316-4e4a-8aba-879e977d4bca
+    world-name: world
+    x: -161.12785132883337
+    y: 128.0
+    z: -319.99454337409975
+    yaw: 45.096038818359375
+    pitch: 11.099970817565918
