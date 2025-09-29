@@ -1,0 +1,49 @@
+# VeinMiner Configuration
+
+# Maximum horizontal range to scan for vein mining
+max_horizontal_range: 5
+
+# Maximum vertical range to scan for vein mining
+max_vertical_range: 5
+
+# Require blocks to be the same type as the broken block
+require_same_type: true
+
+# Give experience for mined blocks
+give_exp: true
+
+# Take durability from the tool when mining multiple blocks
+take_durability: true
+
+# Maximum number of blocks mined at once
+max_blocks: 64
+
+# Show action bar message when vein is mined
+show_vein_message: true
+
+# Action bar message format (use %blocks% for number of additional blocks mined)
+vein_message: '&aVein mined &e%blocks% &aadditional blocks!'
+
+# Enable ore highlighting on right-click
+enable_highlighting: true
+
+# List of ores to include in vein mining (1.21 vanilla ores)
+ores:
+- COAL_ORE
+- DEEPSLATE_COAL_ORE
+- IRON_ORE
+- DEEPSLATE_IRON_ORE
+- GOLD_ORE
+- DEEPSLATE_GOLD_ORE
+- DIAMOND_ORE
+- DEEPSLATE_DIAMOND_ORE
+- EMERALD_ORE
+- DEEPSLATE_EMERALD_ORE
+- LAPIS_ORE
+- DEEPSLATE_LAPIS_ORE
+- REDSTONE_ORE
+- DEEPSLATE_REDSTONE_ORE
+- COPPER_ORE
+- DEEPSLATE_COPPER_ORE
+- NETHER_GOLD_ORE
+- NETHER_QUARTZ_ORE

@@ -1,224 +1,939 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.3): 1759102034981 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.3): 1759106926839 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102038141 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106929994 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102041249 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106933092 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102044369 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106936187 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102047477 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106939279 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102050572 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106942396 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102053660 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106945549 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102056797 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106948665 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102059914 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106951783 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102063004 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106954921 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102066100 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106958020 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102069204 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106961135 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102072323 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106964241 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102075411 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106967347 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102078502 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106970469 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102081589 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106973574 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102084725 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106976835 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102087813 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106979979 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102090932 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106983168 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102094043 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106986258 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102097144 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106989363 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102100247 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106992474 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102103340 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106995569 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102106435 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759106998677 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102109549 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759107001843 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102112639 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759107004942 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102115728 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759107008035 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102118860 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759107011143 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102121956 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759107014254 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102125049 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759107017361 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102128134 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759107020464 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102131227 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759107023559 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102134321 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759107026674 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102137419 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759107029798 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102140584 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759107032897 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102143693 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759107036062 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102146790 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759107039157 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102149885 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759107042246 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102152995 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759107045349 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102156097 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759107048459 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102159246 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759107051546 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102162342 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759107054637 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102165457 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759107057739 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102168566 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759107060836 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.3): 1759102171674 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.16.3): 1759107063927 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107067040 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107070153 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107073248 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107076352 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107079448 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107082541 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107085683 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107088793 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107091889 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107095000 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107098091 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107101189 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107104283 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107107385 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107110475 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107113568 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107116661 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107119794 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107122942 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107126040 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107129179 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107132278 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107135372 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107138482 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107141615 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107144703 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107147794 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107150890 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107153989 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107157091 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107160188 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107163283 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107166385 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107169470 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107172569 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107175672 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107178781 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107181884 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107184982 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107188097 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107191199 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107194294 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107197409 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107200499 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107203590 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107206709 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107209811 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107212967 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107216074 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107219167 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107222273 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107225368 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107228478 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107231593 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107234719 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107237829 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107240916 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107244014 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107247101 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107250193 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107253301 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107256393 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107259483 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107262593 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107265719 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107268818 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107271919 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107275057 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107278142 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107281231 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107284335 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107287426 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107290526 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107293628 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107296736 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107299856 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107302954 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107306054 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107309160 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107312305 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107315403 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107318508 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107321602 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107324699 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107327792 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107330879 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107333986 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107337099 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107340192 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107343304 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107346392 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107349528 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107352654 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107355748 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107358849 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107361941 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107365033 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107368140 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107371248 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107374355 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107377461 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107380556 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107383649 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107386739 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107389825 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107392934 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107396031 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107399136 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107402264 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107405359 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107408462 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107411550 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107414713 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107417822 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107420910 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107423999 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107427139 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107430269 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107433357 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107436490 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107439593 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107442702 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107445794 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107448890 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107451992 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107455092 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107458195 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107461284 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107464380 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107467471 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107470577 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107473669 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107476755 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107479855 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107482943 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107486038 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107489184 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107492291 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107495435 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107498552 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107501652 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107504743 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+real-templates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.3): 1759107507902 tunnel running, 1 tunnels registered
 
 
 TUNNELS

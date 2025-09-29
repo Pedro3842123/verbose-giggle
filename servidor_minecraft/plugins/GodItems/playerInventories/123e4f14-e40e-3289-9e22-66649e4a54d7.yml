@@ -5,4 +5,47 @@ armor:
     type: AIR
     amount: 0
 charms: {}
-contents: {}
+contents:
+  slot_0:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: BREAD
+    amount: 62
+  slot_1:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: STONE_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 1
+  slot_2:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: STONE_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 8
+  slot_3:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: WOODEN_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 25
+  slot_5:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: CRAFTING_TABLE
+  slot_33:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: OAK_PLANKS
+    amount: 15
+  slot_34:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: COBBLESTONE
+    amount: 26
