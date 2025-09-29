@@ -1,5 +1,0 @@
-documentation: https://docs.yvtils.net/mm/config.yml
-language: en
-prefix: <dark_gray>[<blue>YVtils-MM<dark_gray>]<white>
-playerUpdateMessage: true
-debug: false
