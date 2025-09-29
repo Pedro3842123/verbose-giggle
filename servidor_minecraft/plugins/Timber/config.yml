@@ -3,12 +3,7 @@ messages:
   noright: '&eYou need rights "&btimber.capitate" &eor disable needperms in config'
 # Available axes , If not selected, all will work
 # To add an axe to a block list, just remove the “#” symbol.
-worked-axes:
-- '#WOODEN_AXE'
-- '#STONE_AXE'
-- '#IRON_AXE'
-- '#GOLDEN_AXE'
-- '#DIAMOND_AXE'
+worked-axes: []
 # how much strength is removed by chopping wood.
 axe-durability: 1
 # Sowing a seedling after cutting down a tree

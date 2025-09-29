@@ -1,3 +1,8 @@
-armor: {}
+armor:
+  offhand:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: AIR
+    amount: 0
 charms: {}
 contents: {}
