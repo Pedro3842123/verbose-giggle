@@ -9,43 +9,205 @@ contents:
   slot_0:
     ==: org.bukkit.inventory.ItemStack
     v: 3955
-    type: BREAD
-    amount: 62
+    type: STONE_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 8
   slot_1:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: IRON_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 7
+  slot_2:
     ==: org.bukkit.inventory.ItemStack
     v: 3955
     type: STONE_AXE
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
-      Damage: 1
-  slot_2:
-    ==: org.bukkit.inventory.ItemStack
-    v: 3955
-    type: STONE_PICKAXE
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      Damage: 8
+      Damage: 10
   slot_3:
     ==: org.bukkit.inventory.ItemStack
     v: 3955
-    type: WOODEN_PICKAXE
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      Damage: 25
+    type: BREAD
+    amount: 58
   slot_5:
     ==: org.bukkit.inventory.ItemStack
     v: 3955
-    type: CRAFTING_TABLE
+    type: OAK_PLANKS
+    amount: 20
   slot_33:
     ==: org.bukkit.inventory.ItemStack
     v: 3955
-    type: OAK_PLANKS
+    type: OAK_SAPLING
+    amount: 44
+  slot_4:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: OAK_LOG
+    amount: 64
+  slot_7:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: APPLE
+    amount: 7
+  slot_8:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: WATER_BUCKET
+  slot_9:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: BOOK
+    amount: 5
+  slot_10:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: COAL
+    amount: 20
+  slot_11:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: TORCH
+    amount: 7
+  slot_12:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: OAK_LOG
     amount: 15
-  slot_34:
+  slot_13:
     ==: org.bukkit.inventory.ItemStack
     v: 3955
     type: COBBLESTONE
-    amount: 26
+    amount: 36
+  slot_14:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: STICK
+    amount: 25
+  slot_15:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: DIAMOND
+    amount: 3
+  slot_17:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: COAL
+    amount: 64
+  slot_18:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_regeneration
+      custom-effects: []
+  slot_19:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: IRON_INGOT
+    amount: 37
+  slot_20:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: COMPASS
+  slot_21:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: IRON_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        minecraft:fire_protection: 4
+        minecraft:mending: 1
+        minecraft:unbreaking: 3
+        minecraft:vanishing_curse: 1
+  slot_22:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:swift_sneak: 3
+  slot_23:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:bane_of_arthropods: 3
+  slot_27:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_regeneration
+      custom-effects: []
+  slot_29:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: RED_DYE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":[{"text":"Simple ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false},{"text":"Health
+        Amulet","italic":false,"color":"red","bold":true}]}'
+      lore:
+      - '""'
+      - '{"text":"","extra":[{"text":"Crafted with forbidden alchemy, it can prolong
+        one''s life","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+      - '{"text":"","extra":["Rusty object of basic make, but you feel healthier around
+        it"]}'
+      - '""'
+      - '{"text":"","extra":[{"text":"Adds extra health","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":"Charm level: 1","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      custom-model-data: 1001036
+      enchants:
+        minecraft:unbreaking: 3
+      ItemFlags:
+      - HIDE_ENCHANTS
+      Unbreakable: true
+      PublicBukkitValues: |-
+        {
+            "goditems:code_name": "health_charm"
+        }
+  slot_30:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: RED_DYE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":[{"text":"Mastercrafted ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true},{"text":"Health
+        Amulet","italic":false,"color":"red","bold":true}]}'
+      lore:
+      - '""'
+      - '{"text":"","extra":[{"text":"Crafted with forbidden alchemy, it can prolong
+        one''s life","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+      - '{"text":"","extra":["A fine specimen that extends your life"]}'
+      - '""'
+      - '{"text":"","extra":[{"text":"Adds extra health","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":"Charm level: 2","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      custom-model-data: 1002036
+      enchants:
+        minecraft:unbreaking: 3
+      ItemFlags:
+      - HIDE_ENCHANTS
+      Unbreakable: true
+      PublicBukkitValues: |-
+        {
+            "goditems:code_name": "health_charm"
+        }
