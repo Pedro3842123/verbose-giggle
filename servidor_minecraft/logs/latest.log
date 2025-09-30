@@ -13,3 +13,72 @@
 [00:03:27] [Server thread/INFO]: BolinhaPrime issued server command: /sethome pp
 [00:04:23] [Server thread/INFO]: [ClearLag] Items and entities will be cleared in 120 seconds!
 [00:05:23] [Server thread/INFO]: [ClearLag] Items and entities will be cleared in 60 seconds!
+[00:05:54] [Server thread/INFO]: [ClearLag] Items and entities will be cleared in 30 seconds!
+[00:06:09] [Server thread/INFO]: [ClearLag] Items and entities will be cleared in 15 seconds!
+[00:06:14] [Server thread/INFO]: [ClearLag] Items and entities will be cleared in 10 seconds!
+[00:06:19] [Server thread/INFO]: [ClearLag] Items and entities will be cleared in 5 seconds!
+[00:06:20] [Server thread/INFO]: [ClearLag] Items and entities will be cleared in 4 seconds!
+[00:06:21] [Server thread/INFO]: [ClearLag] Items and entities will be cleared in 3 seconds!
+[00:06:22] [Server thread/INFO]: [ClearLag] Items and entities will be cleared in 2 seconds!
+[00:06:23] [Server thread/INFO]: [ClearLag] Items and entities will be cleared in 1 seconds!
+[00:06:24] [Server thread/INFO]: [ClearLag] 85 entities have been removed!
+[00:06:25] [Server thread/INFO]: [ClearLag] Items and entities will be cleared in 300 seconds!
+[00:06:33] [User Authenticator #3/INFO]: UUID of player robeeert7384 is 123e4f14-e40e-3289-9e22-66649e4a54d7
+[00:06:35] [Server thread/INFO]: robeeert7384 joined the game
+[00:06:35] [Server thread/INFO]: robeeert7384[/127.191.59.139:45973] logged in with entity id 14351 at ([world]-59.78003806323682, 96.0, -486.30000001192093)
+[00:07:06] [Server thread/INFO]: robeeert7384 issued server command: /worldborder set 2000
+[00:07:15] [Server thread/INFO]: robeeert7384 issued server command: /home spawn
+[00:07:25] [Server thread/INFO]: robeeert7384 was slain by Spider
+[00:08:25] [Server thread/INFO]: [ClearLag] Items and entities will be cleared in 180 seconds!
+[00:09:10] [Server thread/INFO]: robeeert7384 lost connection: Disconnected
+[00:09:10] [Server thread/INFO]: robeeert7384 left the game
+[00:09:14] [Server thread/INFO]: BolinhaPrime lost connection: Disconnected
+[00:09:14] [Server thread/INFO]: BolinhaPrime left the game
+[00:09:21] [Server thread/INFO]: Stopping the server
+[00:09:21] [Server thread/INFO]: Stopping server
+[00:09:21] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.30.7
+[00:09:21] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.8.0
+[00:09:21] [Server thread/INFO]: [SuperEnchants] Disabling SuperEnchants v3.2.0.1
+[00:09:21] [Server thread/INFO]: [BackpackPlus] Disabling BackpackPlus v2.0.1
+[00:09:21] [Server thread/INFO]: [BackpackPlus] SQLite Successfully disconnected from the database
+[00:09:21] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.21.1
+[00:09:21] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v1.0.2
+[00:09:21] [Server thread/INFO]: [VeinMiner] VeinMiner has been disabled!
+[00:09:21] [Server thread/INFO]: [SimpleDynamicLight] Disabling SimpleDynamicLight v1.0
+[00:09:21] [Server thread/INFO]: [InteractionVisualizer] Disabling InteractionVisualizer v1.18.16.0
+[00:09:21] [Server thread/INFO]: [InteractionVisualizer] Saving player preferences bitmask index, do not halt the server.
+[00:09:21] [Server thread/INFO]: [InteractionVisualizer] InteractionVisualizer has been disabled!
+[00:09:21] [Server thread/INFO]: [InstantRestock] Disabling InstantRestock v2.5.3
+[00:09:21] [Server thread/INFO]: [ImageFrame] Disabling ImageFrame v1.8.5.0
+[00:09:21] [Server thread/INFO]: [ImageFrame] ImageFrame has been Disabled!
+[00:09:21] [Server thread/INFO]: [fast-leaf-decay] Disabling fast-leaf-decay v2.0.0
+[00:09:21] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
+[00:09:21] [Server thread/INFO]: [GodItems] Disabling GodItems v3.0.1
+[00:09:21] [Server thread/INFO]: [GodItems] Saved player inventories: true
+[00:09:21] [Server thread/INFO]: [Timber] Disabling Timber v1.7.4
+[00:09:21] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.1
+[00:09:21] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.0
+[00:09:21] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[00:09:21] [Server thread/INFO]: [LuckPerms] Closing storage...
+[00:09:21] [Server thread/INFO]: [LuckPerms] Goodbye!
+[00:09:21] [Server thread/INFO]: Saving players
+[00:09:21] [Server thread/INFO]: Saving worlds
+[00:09:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:09:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:09:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:09:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:09:21] [Server thread/INFO]: [ChunkHolderManager] Saved 51 block chunks, 125 entity chunks, 0 poi chunks in world 'world' in 0.22s
+[00:09:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:09:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:09:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:09:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:09:21] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[00:09:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:09:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:09:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:09:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:09:21] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[00:09:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:09:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:09:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:09:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

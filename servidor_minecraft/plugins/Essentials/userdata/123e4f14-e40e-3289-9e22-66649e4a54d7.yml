@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1759190285008
-  login: 1759190247562
+  logout: 1759190950239
+  login: 1759190795369
 money: '0'
 last-account-name: robeeert7384
 lastlocation:
@@ -34,8 +34,8 @@ logoutlocation:
   x: -59.78003806323682
   y: 96.0
   z: -486.30000001192093
-  yaw: -170.1188201904297
-  pitch: 22.99022674560547
+  yaw: 165.2812042236328
+  pitch: -17.059782028198242
 homes:
   caverna:
     world: 53000ec9-8316-4e4a-8aba-879e977d4bca

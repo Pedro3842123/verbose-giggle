@@ -1,3 +1,215 @@
-armor: {}
+armor:
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: IRON_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      Damage: 32
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: IRON_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      Damage: 31
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: DIAMOND_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        minecraft:mending: 1
+        minecraft:protection: 4
+        minecraft:unbreaking: 3
+      Damage: 3
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: DIAMOND_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      Damage: 31
+  offhand:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: AIR
+    amount: 0
 charms: {}
-contents: {}
+contents:
+  slot_0:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: IRON_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 124
+  slot_1:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: IRON_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 127
+  slot_2:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: STONE_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 40
+  slot_3:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: IRON_INGOT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":[{"text":"Fine ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":true},{"text":"Bracelet
+        of the Thief","italic":false,"color":"dark_gray","bold":true}]}'
+      lore:
+      - '""'
+      - '{"text":"","extra":[{"text":"A relic of the most cunning thieves,","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":"it enhances your stealth abilities","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":["A fine and polished bracelet"]}'
+      - '""'
+      - '{"text":"","extra":[{"text":"Gives speed when invisible","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":"Charm level: 2","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      custom-model-data: 1002003
+      enchants:
+        minecraft:unbreaking: 3
+      ItemFlags:
+      - HIDE_ENCHANTS
+      Unbreakable: true
+      PublicBukkitValues: |-
+        {
+            "goditems:code_name": "trickster_chestplate_charm"
+        }
+  slot_4:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: WOODEN_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 25
+  slot_5:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: STONE_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 12
+  slot_6:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: COOKED_MUTTON
+    amount: 6
+  slot_8:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: STONE_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 8
+  slot_9:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: ARROW
+    amount: 5
+  slot_10:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: BONE
+    amount: 4
+  slot_11:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: STICK
+  slot_12:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: BIRCH_SAPLING
+  slot_13:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: COAL
+    amount: 40
+  slot_14:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: GUNPOWDER
+  slot_16:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: GRAVEL
+    amount: 2
+  slot_17:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: RAW_IRON
+    amount: 2
+  slot_19:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: IRON_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        minecraft:protection: 3
+      Damage: 7
+  slot_20:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: OAK_SAPLING
+  slot_21:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: COBBLESTONE
+    amount: 9
+  slot_25:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: IRON_INGOT
+    amount: 3
+  slot_28:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: STONE_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 96
+  slot_30:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: STICK
+  slot_31:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: SADDLE
+  slot_33:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:smite: 5
+  slot_34:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: DIRT
+    amount: 11

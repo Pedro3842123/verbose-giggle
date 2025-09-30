@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1759190954883
   login: 1759188426749
 money: '0'
 last-account-name: BolinhaPrime
@@ -61,3 +61,11 @@ homes:
     z: -947.3000000119209
     yaw: 77.7369384765625
     pitch: 51.54505157470703
+logoutlocation:
+  world: 53000ec9-8316-4e4a-8aba-879e977d4bca
+  world-name: world
+  x: -108.69999998807907
+  y: 94.0
+  z: -927.5626468148149
+  yaw: -137.97607421875
+  pitch: 12.390938758850098
